@@ -1,7 +1,7 @@
-# STIG-ID-WN10-UR-000035
+# STIG-ID-WN10-UR-000065
 
 ## Synopsis
-This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+This PowerShell script configures the ‘Change the system time’ (SeSystemtimePrivilege) user right.
 
 ## Notes
 - **Author**: Dion Alexander
@@ -12,7 +12,7 @@ This PowerShell script ensures that the maximum size of the Windows Application 
 - **Version**: 1.0
 - **CVEs**: N/A
 - **Plugin IDs**: N/A
-- **STIG-ID**: WN10-AC-000005
+- **STIG-ID**: WN10-UR-000065
   
 ## Tested On
 - **Date(s) Tested**: 
